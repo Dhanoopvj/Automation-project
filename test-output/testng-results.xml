@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-18T21:52:10 IST" name="Suite" finished-at="2024-12-18T21:55:35 IST" duration-ms="204427">
+    <groups>
+    </groups>
+    <test started-at="2024-12-18T21:52:10 IST" name="Test" finished-at="2024-12-18T21:55:35 IST" duration-ms="204427">
+      <class name="testPackage.Theghartestclass">
+        <test-method is-config="true" signature="setupExtent()[pri:0, instance:testPackage.Theghartestclass@55634720]" started-at="2024-12-18T21:52:10 IST" name="setupExtent" finished-at="2024-12-18T21:52:10 IST" duration-ms="190" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupExtent -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testPackage.Theghartestclass@55634720]" started-at="2024-12-18T21:52:10 IST" name="setUp" finished-at="2024-12-18T21:52:18 IST" duration-ms="7054" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="setUpMethod()[pri:0, instance:testPackage.Theghartestclass@55634720]" started-at="2024-12-18T21:52:18 IST" name="setUpMethod" finished-at="2024-12-18T21:52:25 IST" duration-ms="7751" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method signature="testTitleVerification()[pri:0, instance:testPackage.Theghartestclass@55634720]" started-at="2024-12-18T21:52:25 IST" name="testTitleVerification" finished-at="2024-12-18T21:52:25 IST" duration-ms="40" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTitleVerification -->
+        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:testPackage.Theghartestclass@55634720]" started-at="2024-12-18T21:52:25 IST" name="tearDownMethod" finished-at="2024-12-18T21:52:26 IST" duration-ms="445" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testPackage.Theghartestclass@55634720]" started-at="2024-12-18T21:52:26 IST" name="tearDown" finished-at="2024-12-18T21:52:26 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUpMethod()[pri:0, instance:testPackage.Theghartestclass@55634720]" started-at="2024-12-18T21:52:26 IST" name="setUpMethod" finished-at="2024-12-18T21:52:34 IST" duration-ms="8208" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method signature="testBrokenLinks()[pri:1, instance:testPackage.Theghartestclass@55634720]" started-at="2024-12-18T21:52:34 IST" name="testBrokenLinks" finished-at="2024-12-18T21:53:18 IST" duration-ms="44484" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBrokenLinks -->
+        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:testPackage.Theghartestclass@55634720]" started-at="2024-12-18T21:53:18 IST" name="tearDownMethod" finished-at="2024-12-18T21:53:19 IST" duration-ms="153" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testPackage.Theghartestclass@55634720]" started-at="2024-12-18T21:53:19 IST" name="tearDown" finished-at="2024-12-18T21:53:19 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUpMethod()[pri:0, instance:testPackage.Theghartestclass@55634720]" started-at="2024-12-18T21:53:19 IST" name="setUpMethod" finished-at="2024-12-18T21:53:24 IST" duration-ms="5206" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method signature="windowHandle()[pri:2, instance:testPackage.Theghartestclass@55634720]" started-at="2024-12-18T21:53:24 IST" name="windowHandle" finished-at="2024-12-18T21:53:55 IST" duration-ms="31389" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- windowHandle -->
+        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:testPackage.Theghartestclass@55634720]" started-at="2024-12-18T21:53:55 IST" name="tearDownMethod" finished-at="2024-12-18T21:53:55 IST" duration-ms="210" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testPackage.Theghartestclass@55634720]" started-at="2024-12-18T21:53:55 IST" name="tearDown" finished-at="2024-12-18T21:53:55 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUpMethod()[pri:0, instance:testPackage.Theghartestclass@55634720]" started-at="2024-12-18T21:53:55 IST" name="setUpMethod" finished-at="2024-12-18T21:54:01 IST" duration-ms="5893" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method signature="testScreenshot()[pri:3, instance:testPackage.Theghartestclass@55634720]" started-at="2024-12-18T21:54:01 IST" name="testScreenshot" finished-at="2024-12-18T21:54:02 IST" duration-ms="291" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testScreenshot -->
+        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:testPackage.Theghartestclass@55634720]" started-at="2024-12-18T21:54:02 IST" name="tearDownMethod" finished-at="2024-12-18T21:54:02 IST" duration-ms="131" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testPackage.Theghartestclass@55634720]" started-at="2024-12-18T21:54:02 IST" name="tearDown" finished-at="2024-12-18T21:54:02 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUpMethod()[pri:0, instance:testPackage.Theghartestclass@55634720]" started-at="2024-12-18T21:54:02 IST" name="setUpMethod" finished-at="2024-12-18T21:54:08 IST" duration-ms="6654" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method signature="testBookNow()[pri:4, instance:testPackage.Theghartestclass@55634720]" started-at="2024-12-18T21:54:08 IST" name="testBookNow" finished-at="2024-12-18T21:55:35 IST" duration-ms="86200" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBookNow -->
+        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:testPackage.Theghartestclass@55634720]" started-at="2024-12-18T21:55:35 IST" name="tearDownMethod" finished-at="2024-12-18T21:55:35 IST" duration-ms="255" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testPackage.Theghartestclass@55634720]" started-at="2024-12-18T21:55:35 IST" name="tearDown" finished-at="2024-12-18T21:55:35 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testPackage.Theghartestclass -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
